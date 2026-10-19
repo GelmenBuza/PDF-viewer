@@ -1,4 +1,5 @@
 import './App.css'
+import DropZone from "./components/DropZone";
 
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
 
     return (
         <>
+            <DropZone/>
         </>
     )
 }
